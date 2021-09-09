@@ -1,13 +1,13 @@
 <template>
-  <div id="app">
-     <t-test></t-test>
+  <div>
+    <span>Hello Component Lib</span>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App',
-}
+  name: "t-test"
+};
 </script>
 
 <style lang="scss">
